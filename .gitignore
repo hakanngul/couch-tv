@@ -41,3 +41,6 @@ platform-tools/
 # Your own home scenes (tv-home/tools/make-scene.py writes them here), and the originals
 tv-home/web/backgrounds/mine/*
 !tv-home/web/backgrounds/mine/.gitkeep
+
+# This TV's own survey and undo notes
+couch-tv-backup/
